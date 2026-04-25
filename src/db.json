@@ -1,0 +1,54 @@
+{
+  "activities": [
+    {
+      "id": "1",
+      "title": "Activity 1",
+      "completed": false
+    },
+    {
+      "title": "TEST",
+      "description": "asdsadas",
+      "completed": true,
+      "id": "-bN-xlQg_XA"
+    },
+    {
+      "title": "Nihil qui dicta temp",
+      "description": "Nostrud deserunt vol",
+      "completed": false,
+      "id": "Hs0McTu4NR8"
+    },
+    {
+      "title": "Qui saepe sed est re",
+      "description": "Aute nobis odit rem ",
+      "completed": true,
+      "id": "sqH51dv-G-w"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ex hic et aliquam au",
+      "author": "Duis molestiae error",
+      "price": "404",
+      "id": "KKVknOX3Tvs"
+    },
+    {
+      "title": "Sint explicabo Nihi",
+      "author": "Eaque excepteur saep",
+      "price": "788",
+      "id": "U5urayeAIqc"
+    },
+    {
+      "title": "Qui quis ut soluta e",
+      "author": "Repudiandae enim et ",
+      "price": "14",
+      "id": "GIpX-j0MUlY"
+    },
+    {
+      "title": "Maiores atque sed un",
+      "author": "Itaque deserunt et c",
+      "price": "350",
+      "id": "-N6ROe-6HCc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
