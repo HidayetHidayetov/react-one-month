@@ -4,6 +4,7 @@ import Contact from './pages/Contact';
 import NotFound from './pages/NotFound';
 import Books from './pages/Books';
 import BookShow from './components/books/BookShow';
+import Login from './pages/Login';
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Route path="/contact" element={<Contact />} />
       <Route path="/books" element={<Books />} />
       <Route path="/books/:id" element={<BookShow />} />
+      <Route path="/login" element={<Login />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
   )
