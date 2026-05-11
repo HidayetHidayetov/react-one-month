@@ -1,6 +1,5 @@
 {
-  "activities": [
-    {
+  "activities": [{
       "id": "1",
       "title": "Activity 1",
       "completed": false
@@ -24,8 +23,7 @@
       "id": "sqH51dv-G-w"
     }
   ],
-  "books": [
-    {
+  "books": [{
       "title": "Ex hic et aliquam au",
       "author": "Duis molestiae error",
       "price": "404",
@@ -48,7 +46,17 @@
       "author": "Itaque deserunt et c",
       "price": "350",
       "id": "-N6ROe-6HCc"
+    },
+    {
+      "title": "Et perferendis dolor",
+      "author": "Et at pariatur Libe",
+      "price": "424",
+      "id": "mhF5qfYJvjY"
     }
   ],
+  "users": [{
+    "email": "admin@admin.com",
+    "password": "123456"
+  }],
   "$schema": "./node_modules/json-server/schema.json"
 }
